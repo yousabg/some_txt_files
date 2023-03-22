@@ -1,0 +1,95 @@
+Anderson County	44,090	41,953	41,953
+Bedford County	39,243	37,526	37,526
+Benton County	35,071	33,866	33,866
+Bledsoe County	28,598	26,418	26,418
+Blount County	45,860	43,872	43,872
+Bradley County	40,228	39,236	39,236
+Campbell County	35,824	33,710	33,710
+Cannon County	37,663	35,721	35,721
+Carroll County	36,312	33,803	33,803
+Carter County	35,153	33,516	33,516
+Cheatham County	47,099	44,259	44,259
+Chester County	35,315	33,441	33,441
+Claiborne County36,464	35,018	35,018
+Clay County	32,550	31,521	31,521
+Cocke County	33,984	32,213	32,213
+Coffee County	41,181	38,368	38,368
+Crockett County	42,303	38,285	38,285
+Cumberland County39,092	36,901	36,901
+Davidson County	71,100	66,773	66,773
+Decatur County	43,581	41,946	41,946
+DeKalb County	41,954	41,077	41,077
+Dickson County	43,611	40,639	40,639
+Dyer County	42,418	39,629	39,629
+Fayette County	58,804	54,216	54,216
+Fentress County	35,093	33,028	33,028
+Franklin County	40,494	38,598	38,598
+Gibson County	39,164	36,584	36,584
+Giles County	38,464	37,107	37,107
+Grainger County	35,331	33,867	33,867
+Greene County	37,107	35,657	35,657
+Grundy County	33,628	32,219	32,219
+Hamblen County	38,554	37,135	37,135
+Hamilton County	54,475	52,181	52,181
+Hancock County	28,021	26,172	26,172
+Hardeman County	30,266	28,393	28,393
+Hardin County	39,199	37,743	37,743
+Hawkins County	35,369	34,152	34,152
+Haywood County	33,721	31,261	31,261
+Henderson County37,644	35,866	35,866
+Henry County	42,710	40,475	40,475
+Hickman County	35,945	33,517	33,517
+Houston County	34,415	31,831	31,831
+Humphreys County39,322	37,076	37,076
+Jackson County	33,366	31,416	31,416
+Jefferson County38,765	37,070	37,070
+Johnson County	33,282	31,703	31,703
+Knox County	52,753	49,882	49,882
+Lake County	24,802	21,000	21,000
+Lauderdale County32,784	29,826	29,826
+Lawrence County	35,784	34,358	34,358
+Lewis County	36,069	33,938	33,938
+Lincoln County	41,767	39,264	39,264
+Loudon County	54,449	48,762	48,762
+Macon County	33,618	32,271	32,271
+Madison County	43,975	41,917	41,917
+Marion County	40,301	38,934	38,934
+Marshall County	40,704	38,293	38,293
+Maury County	45,199	41,977	41,977
+McMinn County	37,942	36,576	36,576
+McNairy County	33,591	32,300	32,300
+Meigs County	34,639	32,853	32,853
+Monroe County	36,325	34,509	34,509
+Montgomery County42,647	41,027	41,027
+Moore County	43,240	39,777	39,777
+Morgan County	32,561	30,139	30,139
+Obion County	40,375	38,270	38,270
+Overton County	35,018	34,233	34,233
+Perry County	34,491	33,400	33,400
+Pickett County	40,574	39,780	39,780
+Polk County	33,761	32,295	32,295
+Putnam County	41,621	39,798	39,798
+Rhea County	36,163	34,685	34,685
+Roane County	43,488	41,041	41,041
+Robertson County44,306	41,832	41,832
+Rutherford County43,273	41,236	41,236
+Scott County	31,373	30,571	30,571
+Sequatchie County38,090	36,637	36,637
+Sevier County	43,223	40,727	40,727
+Shelby County	51,067	49,145	49,145
+Smith County	41,898	39,152	39,152
+Stewart County	42,737	40,861	40,861
+Sullivan County	44,125	42,610	42,610
+Sumner County	52,015	48,647	48,647
+Tipton County	41,866	39,483	39,483
+Trousdale County31,874	29,848	29,848
+Unicoi County	37,049	35,644	35,644
+Union County	34,493	32,878	32,878
+Van Buren County31,881	29,700	29,700
+Warren County	36,188	34,645	34,645
+Washington County45,144	42,481	42,481
+Wayne County	30,283	28,532	28,532
+Weakley County	38,337	35,291	35,291
+White County	35,019	32,982	32,982
+Williamson County95,806	92,569	92,569
+Wilson County	52,573	49,732	49,732
